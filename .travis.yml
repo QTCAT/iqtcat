@@ -1,0 +1,7 @@
+language: R
+sudo: required
+#warnings_are_errors: true
+
+r_github_packages:
+  - QTCAT/hit
+  - QTCAT/qtcat
